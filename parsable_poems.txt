@@ -1,4 +1,4 @@
-Tenchi Tennō
+Tenchi Tennou
 Aki no ta no
 Kariho no io no
 Toma o arami
@@ -11,13 +11,13 @@ Of the autumn rice-field;
 And my sleeves are growing wet
 With the moisture dripping through.
 
-Jitō Tennō
+Jitou Tennou
 Haru sugite
 Natsu ki ni kerashi
 Shirotae no
 Koromo hosu cho
 Ama no Kaguyama
-Empress Jitō
+Empress Jitou
 The spring has passed
 And the summer come again;
 For the silk-white robes,
@@ -50,7 +50,7 @@ Perfect whiteness laid
 On Mount Fuji's lofty peak
 By the drift of falling snow.
 
-Sarumaru Dayū
+Sarumaru Dayuu
 Okuyama ni
 Momiji fumiwake
 Naku shika no
@@ -63,13 +63,13 @@ The wandering stag calls.
 When I hear the lonely cry,
 Sad (how sad!) the autumn is.
 
-Chūnagon Yakamochi
+Chuunagon Yakamochi
 Kasasagi no
 Wataseru hashi ni
 Oku shimo no
 Shiroki o mireba
 Yo zo fuke ni keru
-Ōtomo no Yakamochi
+OUtomo no Yakamochi
 If I see that bridge
 That is spanned by flights of magpies
 Across the arc of heaven
@@ -89,7 +89,7 @@ Is the moon the same
 That rose on Mount Mikasa
 In the land of Kasuga?
 
-Kisen Hōshi
+Kisen Houshi
 Waga io wa
 Miyako no tatsumi
 Shika zo sumu
@@ -124,8 +124,8 @@ Osaka no seki
 Semimaru
 Truly, this is where
 Travelers who go or come
-Over parting ways —
-Friends or strangers — all must meet:
+Over parting ways --
+Friends or strangers -- all must meet:
 The gate of "Meeting Hill".
 
 Sangi Takamura
@@ -141,26 +141,26 @@ My ship sets sail.
 Will the fishing boats thronged here
 Proclaim my journey to the world?
 
-Sōjō Henjō
+Soujou Henjou
 Ama tsu kaze
 Kumo no kayoiji
 Fuki toji yo
 Otome no sugata
 Shibashi todomen
-The Monk Henjō
+The Monk Henjou
 Let the winds of heaven
 Blow through the paths among the clouds
 And close their gates.
 Then for a while I could detain
 These messengers in maiden form.
 
-Yōzei In
+Youzei In
 Tsukuba ne no
 Mine yori otsuru
 Minano-gawa
 Koi zo tsumorite
 Fuchi to nari nuru
-Emperor Yōzei
+Emperor Youzei
 From Tsukuba's peak
 Falling waters have become
 Mina's still, full flow:
@@ -173,27 +173,27 @@ Shinobu moji-zuri
 Tare yue ni
 Midare some ni shi
 Ware naranaku ni
-Minamoto no Tōru
+Minamoto no Touru
 Like Michinoku prints
 Of the tangled leaves of ferns,
 It is because of you
 That I have become confused;
 But my love for you remains.
 
-Kōkō Tennō
+Koukou Tennou
 Kimi ga tame
 Haru no no ni idete
 Wakana tsumu
 Waga koromode ni
 Yuki wa furi tsutsu
-Emperor Kōkō
+Emperor Koukou
 It is for your sake
 That I walk the fields in spring,
 Gathering green herbs,
 While my garment's hanging sleeves
 Are speckled with falling snow.
 
-Chūnagon Yukihira
+Chuunagon Yukihira
 Tachi wakare
 Inaba no yama no
 Mine ni oru
@@ -245,7 +245,7 @@ In Naniwa's marsh,
 We must never meet again:
 Is this what you are asking me?
 
-Motoyoshi Shinnō
+Motoyoshi Shinnou
 Wabi nureba
 Ima hata onaji
 Naniwa naru
@@ -258,7 +258,7 @@ So we must meet now,
 Even though it costs my life
 In the Bay of Naniwa.
 
-Sosei Hōshi
+Sosei Houshi
 Ima kon to
 Iishi bakari ni
 Nagatsuki no
@@ -284,13 +284,13 @@ Are wasted and driven.
 So they call this mountain wind
 The wild one, the destroyer.
 
-Ōe no Chisato
+OUe no Chisato
 Tsuki mireba
 Chiji ni mono koso
 Kanashi kere
 Waga mi hitotsu no
 Aki ni wa aranedo
-Ōe no Chisato
+OUe no Chisato
 As I view the moon,
 Many things come into my mind,
 And my thoughts are sad;
@@ -310,7 +310,7 @@ See Mount Tamuke!
 Here are brocades of red leaves,
 As a tribute to the gods.
 
-Sanjō Udaijin
+Sanjou Udaijin
 Na ni shi owaba
 Osakayama no
 Sanekazura
@@ -323,7 +323,7 @@ Isn't there some way,
 Hidden from people's gaze,
 That you can draw her to my side?
 
-Teishin Kō
+Teishin Kou
 Ogurayama
 Mine no momijiba
 Kokoro araba
@@ -336,7 +336,7 @@ Could only have hearts,
 They would longingly await
 The emperor's pilgrimage.
 
-Chūnagon Kanesuke
+Chuunagon Kanesuke
 Mika no Hara
 Wakite nagaruru
 Izumi-gawa
@@ -362,13 +362,13 @@ Only deeper, when
 Guests are gone, and leaves and grass
 Are withered: troubling thoughts.
 
-Ōshikōchi no Mitsune
+OUshikouchi no Mitsune
 Kokoroate ni
 Orabaya oran
 Hatsushimo no
 Oki madowaseru
 Shiragiku no hana
-Ōshikōchi no Mitsune
+OUshikouchi no Mitsune
 If it were my wish
 To pick the white chrysanthemums,
 Puzzled by the frost
@@ -513,7 +513,7 @@ Mono ya omou to
 Hito no tou made
 Taira no Kanemori
 Though I would hide it,
-In my face it still appears —
+In my face it still appears --
 My fond, secret love.
 And now he questions me:
 "Is something bothering you?"
@@ -539,12 +539,12 @@ Sue no Matsuyama
 Nami kosaji to wa
 Kiyohara no Motosuke
 Our sleeves were wet with tears
-As pledges that our love —
+As pledges that our love --
 Will last until
 Over Sue's Mount of Pines
 Ocean waves are breaking.
 
-Chūnagon Atsutada
+Chuunagon Atsutada
 Ai mite no
 Nochi no kokoro ni
 Kurabureba
@@ -557,7 +557,7 @@ With feelings of the past,
 My passion is now as if
 I have never loved before.
 
-Chūnagon Asatada
+Chuunagon Asatada
 Au koto no
 Taete shi nakuba
 Nakanaka ni
@@ -570,7 +570,7 @@ I would not complain;
 And I doubt that she or I
 Would feel that we were left alone.
 
-Kentoku Kō
+Kentoku Kou
 Aware to mo
 Iu beki hito wa
 Omooede
@@ -596,13 +596,13 @@ With his rudder gone:
 Where, over the deep of love,
 The end lies, I do not know.
 
-Egyō Hoshi
+Egyou Hoshi
 Yaemugura
 Shigereru yado no
 Sabishiki ni
 Hito koso miene
 Aki wa ki ni keri
-The Monk Egyō
+The Monk Egyou
 To the dim cottage
 Overgrown with thick-leaved vines
 In its loneliness
@@ -622,17 +622,17 @@ So am I: alone
 And crushed upon the shore,
 Remembering what has been.
 
-Ōnakatomi no Yoshinobu Ason
+OUnakatomi no Yoshinobu Ason
 Mikakimori
 Eji no taku hi no
 Yoru wa moe
 Hiru wa kie tsutsu
 Mono o koso omoe
-Ōnakatomi no Yoshinobu
+OUnakatomi no Yoshinobu
 Like the guard's fires
-Kept at the imperial gateway —
+Kept at the imperial gateway --
 Burning through the night,
-Dull in ashes through the day —
+Dull in ashes through the day --
 Is the love aglow in me.
 
 Fujiwara no Yoshitaka
@@ -674,7 +674,7 @@ After day has dawned,
 Still, in truth, I hate the sight
 Of the morning's coming light.
 
-Udaishō Michitsuna no Haha
+Udaishou Michitsuna no Haha
 Nageki tsutsu
 Hitori nuru yo no
 Akuru ma wa
@@ -687,7 +687,7 @@ Till the daylight comes:
 Can you realize at all
 The emptiness of that night?
 
-Gidō Sanshi no Haha
+Gidou Sanshi no Haha
 Wasureji no
 Yukusue made wa
 Katakereba
@@ -700,13 +700,13 @@ Be too difficult,
 It would be well this very day
 That I should end my life.
 
-Dainagon Kintō
+Dainagon Kintou
 Taki no oto wa
 Taete hisashiku
 Narinuredo
 Na koso nagarete
 Nao kikoe kere
-Fujiwara no Kintō
+Fujiwara no Kintou
 Though the waterfall
 Ceased its flowing long ago,
 And its sound is stilled,
@@ -778,33 +778,33 @@ Is far away,
 And neither have I beheld
 Nor crossed its bridge of heaven.
 
-Ise no Ōsuke
+Ise no OUsuke
 Inishie no
 Nara no miyako no
 Yae-zakura
 Kyo kokonoe ni
 Nioi nuru kana
-Lady Ise no Ōsuke
+Lady Ise no OUsuke
 Eight-fold cherry flowers
-That at Nara — ancient seat
-Of our state — have bloomed,
+That at Nara -- ancient seat
+Of our state -- have bloomed,
 In our nine-fold palace court
 Shed their sweet perfume today.
 
-Sei Shōnagon
+Sei Shounagon
 Yo o komete
 Tori no sorane wa
 Hakaru tomo
 Yo ni Osaka no
 Seki wa yurusaji
-Lady Sei Shōnagon
+Lady Sei Shounagon
 The rooster's crowing
 In the middle of the night
 Deceived the hearers;
 But at Osaka's gateway
 The guards are never fooled.
 
-Sakyō no Daibu Michimasa
+Sakyou no Daibu Michimasa
 Ima wa tada
 Omoi taenan
 To bakari wo
@@ -817,7 +817,7 @@ To send these words to you?
 If I could, I'd come to you
 To say goodbye forever.
 
-Gon Chūnagon Sadayori
+Gon Chuunagon Sadayori
 Asaborake
 Uji no kawagiri
 Tae-dae ni
@@ -843,65 +843,65 @@ In cold misery,
 Worse than hate and misery
 Is the loss of my good name.
 
-Saki no Daisōjō Gyōson
+Saki no Daisoujou Gyouson
 Morotomo ni
 Aware to omoe
 Yama-zakura
 Hana yori hoka ni
 Shiru hito mo nashi
-Abbot Gyōson
+Abbot Gyouson
 On a mountain slope,
 Solitary, uncompanioned,
 Stands a cherry tree.
 Except for you, lonely friend,
 To others I am unknown.
 
-Suō no Naishi
+Suou no Naishi
 Haru no yo no
 Yume bakari naru
 Tamakura ni
 Kainaku tatan
 Na koso oshi kere
-Lady Suō
+Lady Suou
 If I lay my head
 Upon his arm in the dark
 Of a short spring night,
 This innocent dream pillow
 Will be the death of my good name.
 
-Sanjō In
+Sanjou In
 Kokoro ni mo
 Arade ukiyo ni
 Nagaraeba
 Koishikaru beki
 Yowa no tsuki kana
-Emperor Sanjō
+Emperor Sanjou
 Though I do not want
 To live on in this floating world,
 If I remain here,
 Let me remember only
 This midnight and this moonrise.
 
-Nōin Hōshi
+Nouin Houshi
 Arashi fuku
 Mimuro no yama no
 Momijiba wa
 Tatsuta no kawa no
 Nishiki nari keri
-The Monk Nōin
+The Monk Nouin
 By the wind storm's blast
 From Mimuro's mountain slopes
 Maples leaves are torn,
 Which turn Tatsuta River
 Into a rich brocade.
 
-Ryōsen Hōshi
+Ryousen Houshi
 Sabishisa ni
 Yado o tachi idete
 Nagamureba
 Izuko mo onaji
 Aki no yugure
-The Monk Ryōsen
+The Monk Ryousen
 In my loneliness
 I leave my little hut.
 When I look around,
@@ -921,7 +921,7 @@ Gentle knocks are heard,
 And, into my round rush-hut,
 Enters autumn's roaming breeze.
 
-Yūshi Naishinnō-ke no Kii
+Yuushi Naishinnou-ke no Kii
 Oto ni kiku
 Takashi no hama no
 Adanami wa
@@ -934,13 +934,13 @@ In noisy arrogance.
 If I should go near that shore.
 I would only wet my sleeves.
 
-Gon Chūnagon Masafusa
+Gon Chuunagon Masafusa
 Takasago no
 Onoe no sakura
 Saki ni keri
 Toyama no kasumi
 Tatazu mo aranan
-Ōe no Masafusa
+OUe no Masafusa
 On that far mountain
 On the slope below the peak
 Cherries are in flower.
@@ -974,7 +974,7 @@ Yet the year has passed away,
 And autumn has come again.
 
 
-Hōshōji no Nyūdō Saki no Kanpaku Dajōdaijin
+Houshouji no Nyuudou Saki no Kanpaku Dajoudaijin
 Wata no hara
 Kogi idete mireba
 Hisakata no
@@ -1013,7 +1013,7 @@ Have you awakened
 At the cries of sanderlings,
 Flying from Awaji Island?
 
-Sakyō no Daibu Akisuke
+Sakyou no Daibu Akisuke
 Akikaze ni
 Tanabiku kumo no
 Taema yori
@@ -1052,20 +1052,20 @@ The cuckoo's call,
 The only thing I found
 Was the moon of early dawn.
 
-Dōin Hoshi
+Douin Hoshi
 Omoi wabi
 Satemo inochi wa
 Aru mono o
 Uki ni taenu wa
 Namida nari keri
-The Monk Dōin
+The Monk Douin
 Though in deep distress
 Through your cruel blow, my life
 Still is left to me.
 But I cannot keep my tears;
 They break forth from my grief.
 
-Kōtaigōgu no Daibu Toshinari
+Koutaigougu no Daibu Toshinari
 Yo no naka yo
 Michi koso nakere
 Omoi iru
@@ -1091,7 +1091,7 @@ May be dear to me,
 Just as past time filled with grief
 Comes quietly back in thought.
 
-Shun'e Hōshi
+Shun'e Houshi
 Yo mo sugara
 Mono omou koro wa
 Ake yarade
@@ -1104,20 +1104,20 @@ While the day's dawn lags.
 And now the bedroom shutters
 Are keeping light and life from me.
 
-Saigyō Hoshi
+Saigyou Hoshi
 Nageke tote
 Tsuki ya wa mono o
 Omowasuru
 Kakochi gao naru
 Waga namida kana
-The Monk Saigyō
+The Monk Saigyou
 Should I blame the moon
 For bringing forth this sadness,
 As if it pictured grief?
 Lifting up my troubled face,
 I regard it through my tears.
 
-Jakuren Hōshi
+Jakuren Houshi
 Murasame no
 Tsuyu mo mada hinu
 Maki no ha ni
@@ -1130,20 +1130,20 @@ Among the fir leaves
 That still hold the dripping wet
 Of the chill day's sudden showers.
 
-Kōka-Mon'in no Bettō
+Kouka-Mon'in no Bettou
 Naniwae no
 Ashi no karine no
 Hitoyo yue
 Mi o tsukushite ya
 Koi wataru beki
 Attendant to Empress Kiyoko
-After one brief night —
+After one brief night --
 Short as a piece of the reeds
-Growing in Naniwa bay —
+Growing in Naniwa bay --
 Must I forever long for him
 With my whole heart, till life ends?
 
-Shokushi Naishinnō
+Shokushi Naishinnou
 Tama no o yo
 Taenaba taene
 Nagaraeba
@@ -1162,14 +1162,14 @@ Ojima no ama no
 Sode dani mo
 Nure ni zo nureshi
 Iro wa kawarazu
-Attendant to Empress Ryōshi
+Attendant to Empress Ryoushi
 Let me show him these!
 Even the fishermen's sleeves
 On Ojima's shores,
 Though wet through and wet again,
 Do not so change their colors.
 
-Go Kyōgoku no Sesshō Saki no Dajōdaijin
+Go Kyougoku no Sesshou Saki no Dajoudaijin
 Kirigirisu
 Naku ya shimo yo no
 Samushiro ni
@@ -1182,7 +1182,7 @@ I sleep alone,
 While all through the frosty night
 I hear a cricket's lonely sound.
 
-Nijō In no Sanuki
+Nijou In no Sanuki
 Waga sode wa
 Shiohi ni mienu
 Oki no ishi no
@@ -1221,7 +1221,7 @@ In the deepening night
 The ancient village shivers:
 Sounds of beating cloth I hear.
 
-Daisōjō Jien
+Daisoujou Jien
 Okenaku
 Ukiyo no tami ni
 Ou kana
@@ -1234,7 +1234,7 @@ On this world of tears,
 And though I am unworthy,
 I shield it with my black sleeves.
 
-Nyūdo Saki no Dajōdaijin
+Nyuudo Saki no Dajoudaijin
 Hana sasou
 Arashi no niwa no
 Yuki nara de
@@ -1247,7 +1247,7 @@ Round the garden court:
 What withers and falls away
 In this place is I myself.
 
-Gon Chūnagon Sadaie
+Gon Chuunagon Sadaie
 Konu hito o
 Matsuho no ura no
 Yunagi ni

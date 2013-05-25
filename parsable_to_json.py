@@ -1,7 +1,7 @@
 import sys
 import json
 
-lines = [line.strip() for line in sys.stdin.readlines()]
+lines = [line.decode('utf-8').strip() for line in sys.stdin.readlines()]
 
 poems = []
 curpoem = []
@@ -25,5 +25,5 @@ for poem in poems:
     info["Japanese"]["Text"] = poem[1:length]
     info["English"]["Text"] = poem[length + 1:]
     output.append(info)
-
-print json.dumps(output)
+    
+json.dump(output, sys.stdout, ensure_ascii = True)
