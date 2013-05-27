@@ -99,6 +99,7 @@ function peek_poem_line() {
 
 #from af-magic
 eval my_gray='$FG[237]'
+eval my_light_gray='$FG[244]'
 eval my_orange='$FG[214]'
 eval my_cyan='$FG[032]'
 eval my_lavender='$FG[105]'
@@ -108,10 +109,10 @@ function no_color_prompt() {
     echo ${(%):-%n at %m in %~$(no_color_my_git_prompt)}
 }
 
-PROMPT='$my_gray$(printf "%$(($COLUMNS / 2))s" | tr " " -)%{$reset_color%}$(printf "%$(($COLUMNS - $(($COLUMNS / 2)) - ${#$(peek_poem_line)} - 1))s")$(get_poem_line)
-%{$fg[blue]%}%n$my_gray at %{$fg[blue]%}%m%{$reset_color%}$my_gray in %{$fg[blue]%}%~$(my_git_prompt)%{$reset_color%}$(printf "%$(($COLUMNS - ${#$(no_color_prompt)} - ${#$(peek_poem_line)} - 1))s")$(get_poem_line)
+PROMPT='$my_gray$(printf "%$(($COLUMNS / 2))s" | tr " " -)%{$reset_color%}$(printf "%$(($COLUMNS - $(($COLUMNS / 2)) - ${#$(peek_poem_line)} - 1))s")$my_light_gray$(get_poem_line)
+%{$fg[blue]%}%n$my_gray at %{$fg[blue]%}%m%{$reset_color%}$my_gray in %{$fg[blue]%}%~$(my_git_prompt)%{$reset_color%}$(printf "%$(($COLUMNS - ${#$(no_color_prompt)} - ${#$(peek_poem_line)} - 1))s")$my_light_gray$(get_poem_line)
 >'
-RPROMPT='%{$reset_color%}${$(get_poem_line)}'
+RPROMPT='%{$reset_color%}$my_light_gray${$(get_poem_line)}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" $my_gray‹ %{$fg[white]%}"
 ZSH_THEME_GIT_PROMPT_AHEAD="$my_orange↑"
