@@ -90,11 +90,11 @@ function my_current_branch() {
 }
 
 function get_poem_line() {
-    python ~/.oh-my-zsh/custom/getpoem.py false $HOST $(git_prompt_short_sha)
+    ~/.oh-my-zsh/custom/getpoem false $HOST $(git_prompt_short_sha)
 }
 
 function peek_poem_line() {
-    python ~/.oh-my-zsh/custom/getpoem.py true $HOST $(git_prompt_short_sha)
+    ~/.oh-my-zsh/custom/getpoem true $HOST $(git_prompt_short_sha)
 }
 
 #from af-magic

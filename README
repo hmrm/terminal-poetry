@@ -1,1 +1,2 @@
 poems scraped from wikisource
+requires that the C file be made to ~/.oh-my-zsh/custom/getpoem
