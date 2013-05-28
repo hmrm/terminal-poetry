@@ -1,12 +1,13 @@
-function rabbit_hole() {
+function rabbit_hole_prompt() {
     if [ $SHLVL = 1 ]
     then
         if [ -z $SSH_CONNECTION ]
         then
-            return 0
+            echo ">"
+            return
         fi
     fi
-    return 1
+    echo ">>"
 }
 
 function no_color_my_git_prompt() {
@@ -106,12 +107,12 @@ eval my_lavender='$FG[105]'
 eval my_blue='$FG[075]'
 
 function no_color_prompt() {
-    echo ${(%):-%n at %m in %~$(no_color_my_git_prompt)}
+    echo ${(%):-%n at %m in %~$(no_color_my_git_prompt) at %t}
 }
 
 PROMPT='$my_gray$(printf "%$(($COLUMNS / 2))s" | tr " " -)%{$reset_color%}$(printf "%$(($COLUMNS - $(($COLUMNS / 2)) - ${#$(peek_poem_line)} - 1))s")$my_light_gray$(get_poem_line)
-%{$fg[blue]%}%n$my_gray at %{$fg[blue]%}%m%{$reset_color%}$my_gray in %{$fg[blue]%}%~$(my_git_prompt)%{$reset_color%}$(printf "%$(($COLUMNS - ${#$(no_color_prompt)} - ${#$(peek_poem_line)} - 1))s")$my_light_gray$(get_poem_line)
->'
+%{$fg[blue]%}%n$my_gray at %{$fg[blue]%}%m%{$reset_color%}$my_gray in %{$fg[blue]%}%~$(my_git_prompt)$my_gray at %{$fg[blue]%}%t%{$reset_color%}$(printf "%$(($COLUMNS - ${#$(no_color_prompt)} - ${#$(peek_poem_line)} - 1))s")$my_light_gray$(get_poem_line)
+$(rabbit_hole_prompt) '
 RPROMPT='%{$reset_color%}$my_light_gray${$(get_poem_line)}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" $my_gray‹ %{$fg[white]%}"
